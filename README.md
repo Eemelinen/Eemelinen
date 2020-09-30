@@ -7,12 +7,16 @@ I currently study Bachelor of Business-IT degree at Haaga-Helia university of ap
 
 I'm alsoa graduate 🎓 from the Full-Stack javascript developer course @ </Salt>, Amsterdam
 An intense, 500+ hours of code, 3 month course on Javascript development. The entire course was done remotely using agile Mob programming method.
----
+
 🎓 Take a look at our graduation project:
 </Salt> Ellipsis graduation demo: Nomad App - Youtube demo
+
 ---
+
 🔭 Currently: Working on my personal portfolio site.
+
 ---
+
 ### My Skillset:
 <p float="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px" alt="Javascript">
