@@ -1,5 +1,7 @@
  👋 Hello and welcome!
  
+---
+ 
 I'm Eemeli, a Full-Stack developer with current focus on javascript ecosystem.
 
 Background:
