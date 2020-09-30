@@ -9,7 +9,7 @@ I'm alsoa graduate 🎓 from the Full-Stack javascript developer course by </sal
 An intense, 500+ hours of code, 3 month course on Javascript development. The entire course was done remotely using agile Mob programming method.
 
 🎓 Take a look at our graduation project:
-</Salt> Ellipsis graduation demo: Nomad App - Youtube demo
+<a href="https://www.youtube.com/watch?v=zgnh3dVVbfk&list=PLDqoWWdtjihBVYCEj1CPvZ26ePjBSBTuq&index=5&t=0s">Nomad App - Youtube demo</a>
 
 ---
 
