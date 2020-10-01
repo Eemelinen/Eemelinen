@@ -3,7 +3,7 @@
 ---
 ### 🔭 Background:
 
-I currently study Bachelor of Business-IT degree at Haaga-Helia university of applied sciences in Finland. I will graduate in 2021.
+I currently study 🎓 Bachelor of Business-IT degree at Haaga-Helia university of applied sciences in Finland. I will graduate in 2021.
 
 I'm also a graduate 🎓 from the Full-Stack javascript developer course by </salt>.
 An intense, 500+ hours of code, 3 month course on Javascript development. The entire course was done remotely using agile mob programming methodology.
