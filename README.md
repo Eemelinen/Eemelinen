@@ -13,7 +13,8 @@ An intense, 500+ hours of code, 3 month course on Javascript development. The en
 
 ---
 
-🔭 Currently: Working on my personal portfolio site.
+### 🔭 Current Projects:
+- Personal portfolio site.
 
 ---
 
