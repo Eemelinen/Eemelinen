@@ -1,7 +1,7 @@
 # Hello and welcome! 👋 
 ### My name is Eemeli and I'm a Full-Stack developer with current focus on javascript ecosystem.
 ---
-### Background:
+### 🔭 Background:
 
 I currently study Bachelor of Business-IT degree at Haaga-Helia university of applied sciences in Finland. I will graduate in 2021.
 
@@ -13,7 +13,7 @@ An intense, 500+ hours of code, 3 month course on Javascript development. The en
 
 ---
 
-### 🔭 Current Projects:
+### ⚡ Current Projects:
 - Personal portfolio site.
 
 ---
