@@ -14,7 +14,7 @@ An intense, 500+ hours of code, 3 month course on Javascript development. The en
 ---
 
 ### ⚡ Current Projects:
-- Personal portfolio site. https://programeemeli.herokuapp.com/
+- Personal portfolio site. https://programeemeli.herokuapp.com/ (Work in progress)
 - Javascript / HTML5 canvas animations
 
 ---
