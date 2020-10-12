@@ -1,4 +1,4 @@
-# Hello and welcome! 👋 
+# Welcome! 👋 
 ### My name is Eemeli and I'm a Full-Stack developer with current focus on javascript ecosystem.
 ---
 ### 🔭 Background:
