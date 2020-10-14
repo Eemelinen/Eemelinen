@@ -11,13 +11,9 @@ An intense, 500+ hours of code, 3 month course on Javascript development. The en
 🎓 Take a look at my teams graduation project:
 <a href="https://www.youtube.com/watch?v=zgnh3dVVbfk&list=PLDqoWWdtjihBVYCEj1CPvZ26ePjBSBTuq&index=5&t=0s">Nomad App - Youtube demo</a>
 
----
-
 ### ⚡ Current Projects:
 - Personal portfolio site.
 - Javascript / HTML5 canvas animations.
-
----
 
 ### 🎨 My Skillset:
 <p float="left">
