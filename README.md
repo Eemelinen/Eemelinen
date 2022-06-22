@@ -1,5 +1,5 @@
 # Welcome! 👋 
-### My name is Eemeli and I'm a Full Stack Developer with current focus on javascript based technologies.
+### My name is Eemeli and I'm a Full Stack Web Developer.
 
 ### 🔭 Background:
 
